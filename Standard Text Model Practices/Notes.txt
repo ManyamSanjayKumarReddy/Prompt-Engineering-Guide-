@@ -1,0 +1,37 @@
+--> Role Prompting is nothing but mentioning the prompt as act as senior marketing manager or you are an prompt engineer do these tasks like that
+--> using role prompting we are mentioning the domain it should focus more on
+
+--> More role prompts : https://github.com/f/awesome-chatgpt-prompts
+
+---> chatgpt is capable of not only generating text but also other file formats like .csv, .txt, .md, .ppt and more [If you wonder how it does that and yes its simply using pandas in the background]
+
+--> Least to Most Technique : start with small amount of context and iterate on the output from the llm and reach the final output 
+
+--> EXplain it like I am Five :: use this for the proper and better understanding of the detail
+
+--> Meta prompting is all about asking chatgpt to generate prompt for any specific task and we can use that prompt to make our work done 
+
+--> to overcome the max output token limit is that making the output we need as multiple outputs like making the scenario as chunking asking each concepts and combining all of them
+
+--> Regarding the sentiment analysis we need to provide proper system message and role prompt along with examples for the postive negative and neutral results aswell
+
+--> Its always better to give the full details to the chatgpt as it contains more specificty, contextual understanding, accuary and quality of response will be good aswell
+
+--> We can also specifiy the steps to be follwed like step 1 and then step 2 and this will be more even more good for the more tasks 
+
+--> use delimteries like input output with """ """ like that 
+
+--> can also limit how much output size or length we want by specifing them like generate 2-3 sentences like that
+
+--> If we add a Line like think step by step which matters a lot for an thinking ability question to think a while step by step and provide output 
+
+--> Asking for more context and asking chatgpt to explain a particular concept in detail is a good way to get more meaningfull context
+
+--> Pre - warming chats informing what it will be happening in the next set of chats and making the output benefit of ours side 
+
+--> Prompt injection is more dangerous it will manipulate the prompt so we need to be clear in the coding level to maintain proper system instructions like system, user, assistant as the roles and all 
+
+--> Automatic Prompt Engineering make the prompt crafts itself by chatgpt or llm from generation to evaluation to optimization to few shot mining to generalization and again genereation 
+
+"APE Guide :: " https://www.promptingguide.ai/techniques/ape 
+
