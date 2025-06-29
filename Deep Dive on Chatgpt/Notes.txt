@@ -1,0 +1,32 @@
+-> An LLM is capable of selecting the next most probable word in the given vocabulary
+-> GPT's are built on top of Transformer MOdels 
+-> Based on the large datasets we have we need to train the GPT model or finetune to get proper results and also need to make this process continuous to get more accuracy
+-> Text Generations and Image Generations are builtin features of chatgpt
+-> also we have web browsing , powerfull models and custum gpt models
+-> We can use canvas for the blog posts , larger documentations etc. 
+
+
+--> Good thing about chatgpt is it has the context of what we have spoke earlier in the chat history
+
+--> GPT can do the reltime websearch aswell 
+--> Deep Research is mainly for the research analysis for the more and most probably it will take lot of time 
+
+--> Regarding the data analysis sector we have gpt inbuit analysis and in the background it will be running pandas as Core and returning the results and including tables and matplotlib outputs aswell
+
+--> CHarts and much more can be analyzed using the gpt analysis feature but not with the Classic Models 
+
+--> Generating images and making them as the reference and creating more images aswell and inbuilt editing / styling is also applicable here 
+
+--> Custum instructions can be given to chatgpt like how it need to behave with you
+
+--> Canvas in chat gpt is for the blog posts , edits , large coding outputs and all 
+
+--> Chatgpt memories are using to store previous summaries or when we go for the new conversations it will remember contexts 
+
+--> Gpt also have the scheduled tasks which will remind or create social media posts and like that 
+
+--> lot of use cases with text models and vision models aswell
+
+--> We also have chatgpt desktop application for windows and macos 
+
+--> we can also create custom gpt's 
