@@ -1,0 +1,30 @@
+Five Principles of Prompting
+
+1. Give Direction
+
+--> Describe the desiried style in detail or any reference a relavent Context
+--> Explain in detail what you want innovatively than copying 
+
+--> Positive prompt and Negative Prompt is must and should to get the output in accurate like what to include and what not to include 
+
+2. Specify Format 
+
+--> Define what rules to follow and the required structure of the response 
+--> So the response we generate from this prompt should be like the input to the next task
+--> Proper mentioning of the expecting format gives more clear and desired output
+
+3. Providing Examples
+
+--> Providing the set of test cases of which correct one will improve the output proficiency 
+--> But providing too many examples can constraint creativity
+
+4. Evaluate Quality
+
+--> Identify Errors and rate responses, testing what drives performance 
+--> Trying different Combinations to Identify where it fails and succeeds
+
+5. Divide Labour
+
+--> Splitting the complex tasks into multiple steps and chained together to get the proper results
+
+

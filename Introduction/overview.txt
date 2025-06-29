@@ -10,3 +10,5 @@ AI Prompt Database: https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81ae
 
 Github Repo of the Course : https://github.com/BrightPool/udemy-prompt-engineering-course
 
+AI Resource Hub : https://docs.google.com/spreadsheets/d/1xcsA3eM7DdJFjCAq37FxetE6xAUEFsLSpPK9ySqhl2g/edit?gid=0#gid=0
+
