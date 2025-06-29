@@ -1,0 +1,48 @@
+Tokens 
+
+1. What is Tokenization ?
+
+Sentences, words and characters are transformed into lots of invidiual Tokens 
+
+For Example : I am a good boy >> I , am, a, good, boy
+
+Token Limits : 
+
+--> these limits are restricted by the models that we choose 
+--> each model has input token limit and output token limit
+
+Can check more on the limits and all from here : https://platform.openai.com/docs/models
+
+Approaches to avoid hitting token limits: 
+
+--> Use large models 
+--> shorten your prompt or context
+--> chunking 
+--> summarization 
+--> windowed chunks
+
+Hallucinations: 
+
+--> basically these are the incorrect text or token that an llm predict
+--> To make the Hallucinations not to happen we need to add the knowledge to it and also tell how to behave in such cases if it was not there in the KB
+
+
+ChatModels vs Reasoning models:
+
+--> Chatmodels are llm's that use a seq of messages as inputs and return messages as outputs
+
+
+Low Latency : chat models respond quickly and often stream each word as it generated 
+
+Low Reasoning Capabilities : models such as Claude and gpt 4o are capable of solving easy to medium difficulties 
+
+--> Reasoning MOdels usually takes extra time during execution to think through problems and refine ans which are similar like humans spend more time on complex tasks
+
+--> Reasoning models allocate thinking time before responding to query.
+
+High Latency and high Reasoning Capabilities
+
+
+:: For tasks that require increased accuracy / reduced errors use reasoning models 
+:: For simpler tasks use chat models 
+
