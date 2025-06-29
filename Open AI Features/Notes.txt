@@ -1,0 +1,22 @@
+--> OpenAI can perform Text Generation and completion using the models from light weight to advanced also we can control the params like temp, top_p, max tokens 
+--> Output for the text Generation can be pre determined like json and other output formats we need 
+
+--> Image Generation with Dalle and also we have text to speech and speech to text transcriptions 
+
+--> apart from these we also have function calling and tool 
+--> using these we can determine the models when to call functions also these enables api which are being called externally and can be capable of building complex aagents 
+
+--> we also have reasoning models like o3, o4-mini  
+
+--> Open also have the embedding :: the vector representation for semantic and similarity search
+
+--> we also have these customization options like 
+
+:: fine tuning :-> train models on specific data for the domain specific tasks
+:: evals :-> evaluating model performance 
+:: distillation :-> create, smaller, specilized mdoels for redcued inference costs and latency
+
+https://github.com/openai/openai-cookbook/tree/main/examples 
+
+https://cookbook.openai.com/ 
+
