@@ -1,0 +1,12 @@
+Introduction : 
+
+--> Most People say this LLM is not giving accurate answers and most probably this is not good Model
+
+--> But the Truth is that that people were unware asking the prompt proper way to get the solutions and that's how Prompt Engineering teaches us how to master it.
+
+ChatGPT Prompt Pack : https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527a58a4d6fc3027fb5
+
+AI Prompt Database: https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a
+
+Github Repo of the Course : https://github.com/BrightPool/udemy-prompt-engineering-course
+
