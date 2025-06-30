@@ -46,6 +46,10 @@ The guide is organized into clear, focused sections that progressively build you
 
 ---
 
+## Quick Links
+
+- Open AI Version of the controls and techniques : https://colab.research.google.com/drive/1ths683v74Z7uviZBib5epdvPPhDj1heA?usp=sharing
+
 ## 📌 Contributing
 
 If you find issues or have suggestions, feel free to fork this repo and raise a PR!
